@@ -2,6 +2,7 @@ forge 'forge.puppetlabs.com'
 
 # Forge Modules
 mod 'puppetlabs/stdlib'
+mod 'elasticsearch/elasticsearch'
 
 mod 'deiricobaiceir/derek',
   :git    => 'https://github.com/deiricobaiceir/derek.git',
