@@ -12,4 +12,4 @@ mod 'deiricobaiceir/derek',
   #:git    => 'https://git.think.io/Simon/puppet-scriptspublic.git',
   #:branch => @librarian.basedir.split('/').last
 
-  
+#v1.0
